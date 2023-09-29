@@ -1,0 +1,2 @@
+# XR806RotaryEncoderPWM
+在XR806上测试旋转编码器和PWM输出
